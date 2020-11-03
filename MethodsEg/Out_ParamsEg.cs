@@ -38,6 +38,7 @@ namespace MethodsEg
 			}
 			Console.WriteLine("---------------------------------");
 			obj.Studentdetails("edward", "singing", "playing", "reading");
+			Console.WriteLine("Demo Msg");
 			Console.Read();
 
 
