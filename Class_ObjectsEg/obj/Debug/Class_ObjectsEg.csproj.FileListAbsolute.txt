@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csprojAssemblyReference.cache

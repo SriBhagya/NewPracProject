@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\bin\Debug\Assignment6Oct.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\bin\Debug\Assignment6Oct.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\bin\Debug\Assignment6Oct.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\obj\Debug\Assignment6Oct.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\obj\Debug\Assignment6Oct.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\obj\Debug\Assignment6Oct.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-3 5oct\CSharpDay3\Assignment6Oct\obj\Debug\Assignment6Oct.csprojAssemblyReference.cache
