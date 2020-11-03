@@ -10,6 +10,7 @@ namespace Day3
 	{
 		static void Main(string[] args)
 		{
+			console.writeline("");
 		}
 	}
 }
